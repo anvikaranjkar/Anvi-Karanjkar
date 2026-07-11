@@ -17,7 +17,7 @@ export const projects = [
     name: "TrackMyFlix",
     year: "2025",
     description: "Movie and TV tracking with runtime data, viewing plans and progress tracking.",
-    href: "https:/trackmyflix.com",
+    href: "https://trackmyflix.com",
   },
   {
     name: "Splitlyy",
