@@ -46,7 +46,7 @@ The site runs at `http://localhost:3000`.
 npm run build
 ```
 
-`npm run build` targets the Cloudflare Workers-compatible vinext runtime used by OpenAI Sites. `vercel.json` directs Vercel to run the standard `next build` command with the Next.js framework preset.
+`npm run build` runs the same standard Next.js production build used by Vercel. The runtime is pinned to Node.js 22 in `package.json`.
 
 ## Content and accessibility
 

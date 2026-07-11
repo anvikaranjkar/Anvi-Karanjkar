@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Next.js output
+.next/
+out/
+next-env.d.ts
+
+# Vercel local state
+.vercel/
+
+# Environment files
+.env*
+
+# Logs and operating-system files
+*.log
+.DS_Store
+coverage/

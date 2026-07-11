@@ -2,6 +2,8 @@
 
 This folder is ready for Vercel as a Next.js project.
 
+The runtime is pinned to Node.js 22 and the dependency lockfile is validated with a clean install.
+
 1. Unzip the portfolio.
 2. Open a terminal in the unzipped folder.
 3. Run `npm install`.
