@@ -17,19 +17,19 @@ export const projects = [
     name: "TrackMyFlix",
     year: "2025",
     description: "Movie and TV tracking with runtime data, viewing plans and progress tracking.",
-    href: "https://github.com/anvikaranjkar/trackmyflix",
+    href: "https:/trackmyflix.com",
   },
   {
     name: "Splitlyy",
     year: "2024",
     description: "A group-expense tool that reduces the number of transactions using graph algorithms.",
-    href: "https://splitlyy.app",
+    href: "https://splitlyy.netlify.app",
   },
   {
     name: "Digicamify",
     year: "2024",
     description: "A browser-based image processor inspired by early-2000s digital cameras.",
-    href: "https://digicamify.com",
+    href: "https://digicamify.netlify.com",
   },
   {
     name: "Countdown Scrapbook",
@@ -47,7 +47,7 @@ export const projects = [
     name: "NYAS Research Portfolio",
     year: "2025",
     description: "Research documentation from the New York Academy of Sciences Junior Academy.",
-    href: "https://nyas.org",
+    href: "anvikaranjkarnyas.netlify.app",
   },
 ];
 
